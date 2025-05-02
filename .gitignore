@@ -2,6 +2,9 @@
 venv/
 myvenv/
 .venv/
+build/
+dist/
+pywebhive.egg-info/
 
 # Python cache files
 __pycache__/
